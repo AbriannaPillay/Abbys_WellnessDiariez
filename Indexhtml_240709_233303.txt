@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abrianna Pillay - Youth Ambassador</title>
+    <link href="https://fonts.googleapis.com/css2?family=Calabria&family=Aptos&family=Cavolini&family=Dreaming+Out+Loud&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Calabria', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fdf6e4;
+            color: #333;
+        }
+        header {
+            background-color: #d9c8e6;
+            color: #4a3c6a;
+            text-align: center;
+            padding: 2em 0;
+            border-bottom: 5px solid #a97ab8;
+            font-family: 'Dreaming Out Loud', cursive;
+        }
+        nav {
+            text-align: center;
+            margin: 1em 0;
+            font-family: 'Aptos', sans-serif;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4a3c6a;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #a97ab8;
+        }
+        section {
+            padding: 2em;
+        }
+        section h2 {
+            color: #4a3c6a;
+            font-family: 'Cavolini', serif;
+        }
+        footer {
+            background-color: #4a3c6a;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-family: 'Aptos', sans-serif;
+        }
+        .boho {
+            border: 2px dashed #a97ab8;
+            border-radius: 10px;
+            padding: 1em;
+            margin: 1em 0;
+            background-color: #f7f0fa;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 0.5em 0;
+        }
+        a {
+            color: #4a3c6a;
+        }
+        a:hover {
+            color: #a97ab8;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abrianna Pillay</h1>
+        <h2>Youth Ambassador</h2>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#mental-health">Mental Health Awareness</a>
+        <a href="#epilepsy">Epilepsy Awareness</a>
+        <a href="#healing">Healing</a>
+        <a href="#coping">Coping Mechanisms</a>
+        <a href="#spiritual">Spiritual Motivation and Strength</a>
+        <a href="#shop">Online Shop</a>
+        <a href="#contact">Contact Information</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="boho">
+            <p>Hi, I'm Abrianna Pillay, also known as Abby. As a Youth Ambassador, I am passionate about advocating for
